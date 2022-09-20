@@ -1,0 +1,346 @@
+header{
+    height: 80px;
+}
+body{
+    background-color:aliceblue;
+
+}
+#brand{
+    color:rgb(92, 25, 92) ;
+    margin-left:4%;
+    margin-top: 1px;
+    font-style:italic;
+    font-weight: 800;
+    float:left;
+    font-size: 41px;
+}
+#content{
+    color:rgb(133, 49, 49);
+    margin-left:4%;
+    margin-top:20px;
+    font-style:normal;
+    float:left;
+
+}
+#span{
+    color:rgb(221, 25, 25) ;
+    margin-left:3%;
+    margin-top: 20px;
+    float: left;
+}
+#scrapbook{
+    float: left;
+    margin-left:25%;
+    margin-top: 1%;
+    margin-bottom: 2px;
+}
+#scrapbook > img{
+    margin-left:35%;
+}
+#search{
+    float: left;
+    margin-left: 2%;
+    margin-top: 1.2%;
+    margin-bottom: 2px;
+}
+#search > img{
+    margin-left: 20%;
+}
+#cart{
+    float: left;
+    margin-left: 2%;
+    margin-top: 1%;
+    margin-bottom: 2px;
+}
+#cart > img{
+    margin-left: 7%;
+}
+#profile{
+    float: left;
+    margin-left: 2%;
+    margin-top: 0.8%;
+}
+#profile > img{
+    margin-left: 23%;
+}
+#contain{
+    height: 50px;
+}
+#coupon{
+    height: 313px;
+    width: 600px;
+    border: 10px groove rgb(240, 235, 235);
+    margin-top: 14%;
+    margin-left: 20%;
+    position: absolute;
+    z-index: 9;
+}
+#Cimage{
+    height: 290px;
+    width: 45%;
+    margin-left: 62%;
+    position: absolute;
+    margin-top: -0%;
+    
+}
+#night{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+#Cvalue{
+    height: 295px;
+    width: 62.5%;
+    margin-top: 0%;
+    background-color: rgb(86, 250, 86);
+    position: absolute;
+    margin-top: -0px;
+}
+#moon{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+#btncoupon{
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+
+}
+#button{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   margin-left: 32%;
+   margin-top: 20%;
+   font-weight: 200;
+   background: transparent;
+   border-radius: 30%;
+   cursor: pointer;
+}
+#Cvalue > h1{
+    margin-left: 9%;
+}
+#Cvalue > h5{
+    margin-left: 13%;
+}
+#first{
+    height: 100px;
+}
+#second{
+    height: 100px;
+}
+#third{
+    height: 100px;
+    margin-left: 34%;
+    margin-top: -9%;
+}
+#fourth{
+    height: 100px;
+    margin-left: 53%;
+    margin-top: -9%;
+}
+#fifth{
+    height: 100px;
+    margin-left: 70%;
+    margin-top: -8%;
+}
+#sixth{
+    height: 100px;
+    margin-left: 86%;
+    margin-top: -7.5%;
+}
+#slider{
+    height: 300px;
+
+}
+#devcarousel{
+    margin-left: 11%;
+}
+#slideImg{
+    height: 300px;
+    width: 600px;
+}
+#categories{
+    
+    margin-top: 50px;
+}
+#seventh{
+    border: solid olive 5px;
+    height: 500px;
+    width: 350px;
+    margin-top: 2%;
+    float: left;
+    background-color: bisque;
+}
+#photo1{
+    height: 430px;
+    width: 225px;
+    margin-top: 3%;
+    float: left;
+}
+#photo2{
+    height: 215px;
+    width: 112px;
+    margin-top: -49%;
+    float: left;
+}
+#photo3{
+    height: 215px;
+    width: 112px;
+    margin-top: -50%;
+    float: left;
+}
+#eight{
+    border: solid rgb(168, 18, 30) 5px;
+    height: 500px;
+    width: 350px;
+    margin-top: 2%;
+    float: left;
+    margin-left: 3.5%;
+    background-color: bisque;
+}
+#photo4{
+    
+    height: 430px;
+    width: 225px;
+    margin-top: 17%;
+    float: left;
+    margin-left:-11px ;
+}
+#photo5{
+    
+    height: 212px;
+    width: 112px;
+    margin-top: -127%;
+    float: left;
+    margin-left:208px ;
+}
+#photo6{
+    
+    height: 212px;
+    width: 112px;
+    margin-top: -70%;
+    float: left;
+    margin-left:210px ;
+}
+#ninth{
+    border: solid olive 5px;
+    height: 500px;
+    width: 350px;
+    margin-top: 2%;
+    float: left;
+    margin-left: 3.5%;
+    background-color: bisque;
+}
+#photo7{
+    
+    height: 350px;
+    width: 225px;
+    margin-top: -4%;
+    float: left;
+}
+#photo8{
+   
+    height: 212px;
+    width: 112px;
+    margin-top: -92%;
+    float: left;
+    margin-left:68%;
+}
+#photo9{
+    margin-left:29%;
+    height: 212px;
+    width: 112px;
+    margin-top: -20%;
+    float: left;
+}
+#tenth{
+    border: solid olive 5px;
+    height: 500px;
+    width: 350px;
+    margin-top: 12%;
+    float: left;
+    margin-left: -1.5%;
+    background-color: bisque;
+}
+#photo10{
+    
+    height: 350px;
+    width: 225px;
+    margin-top: 9%;
+    float: left;
+    margin-left: 1%;
+}
+#photo11{
+    margin-left: 66%;
+    height: 212px;
+    width: 112px;
+    margin-top: -31%;
+    float: left;
+}
+#photo12{
+    margin-left: 68%;
+    height: 212px;
+    width: 112px;
+    margin-top: -140%;
+    float: left;
+}
+#eleventh{
+    border: solid rgb(168, 18, 30) 5px;
+    height: 500px;
+    width: 350px;
+    margin-top: 14%;
+    float: left;
+    margin-left: -244%;
+    background-color: bisque;
+}
+#photo13{
+    margin-left:-42% ;
+    height: 430px;
+    width: 225px;
+    margin-top: 25%;
+    float: left;
+}
+#photo14{
+    margin-left: -13%;
+    height: 212px;
+    width: 112px;
+    margin-top: 26%;
+    float: left;
+}
+#photo15{
+    margin-left: -13%;
+    height: 212px;
+    width: 112px;
+    margin-top: -1%;
+    float: left;
+}
+#twelvth{
+    border: solid olive 5px;
+    height: 500px;
+    width: 350px;
+    margin-top: 14%;
+    float: left;
+    margin-left: -373%;
+    background-color: bisque;
+}
+#photo16{
+    height: 430px;
+    width: 225px;
+    margin-top: 18%;
+    float: left;
+    margin-left: 2%;
+}
+#photo17{
+    height: 215px;
+    width: 112px;
+    margin-top: -126%;
+    float: left;
+    margin-left: 67%;
+}
+#photo18{
+    height: 215px;
+    width: 112px;
+    margin-top: -67%;
+    float: left;
+    margin-left: 67%;
+}
